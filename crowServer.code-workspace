@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "boost_1_84_0",
+			"path": "../../../../../Downloads/boost_1_84_0/boost_1_84_0"
+		},
+		{
+			"name": "crowServer",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

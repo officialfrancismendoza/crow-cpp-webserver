@@ -1,0 +1,3 @@
+C:/Users/franc/OneDrive/Documents/Academic and Industry work/Career 2022-2023/crowServer/build/CMakeFiles/crowsample.dir
+C:/Users/franc/OneDrive/Documents/Academic and Industry work/Career 2022-2023/crowServer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/franc/OneDrive/Documents/Academic and Industry work/Career 2022-2023/crowServer/build/CMakeFiles/ZERO_CHECK.dir

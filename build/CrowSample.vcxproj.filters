@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\franc\OneDrive\Documents\Academic and Industry work\Career 2022-2023\crowServer\crowServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\franc\OneDrive\Documents\Academic and Industry work\Career 2022-2023\crowServer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5F2C8AB5-1A37-372B-9063-3246D4DCE006}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
